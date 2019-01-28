@@ -1,5 +1,12 @@
 # Reddit Account Migration
 
+## Want to see how its done?
+See it live on [Twitch.tv](https://www.twitch.tv/rambat1010)
+
+Watch past solutions on YouTube below:
+[![Watch the Build](https://img.youtube.com/vi/GdwbAVI-bL0/maxresdefault.jpg)](https://www.youtube.com/watch?v=GdwbAVI-bL0&t=2s)
+
+
 ## What is this?
 This project is to help with taking two reddit accounts and having the ability to have the subs and follows of the target account be automatically have the same subs and follows of the original account. This wont remove any subs on either account that are already there - only the ones being synced.
 
